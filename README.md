@@ -1,4 +1,4 @@
-### Hi there, Just call me [Alonejetblack!](https://github.com/ressync) ˘ᆺ˘
+### Hi there, Just call me [Alonejetblack!](https://github.com/alonejetblack) /ᐠ｡ꞈ｡ᐟ\
 
 [![黒猫の死](https://i.ibb.co/X4S2w9j/Black-Cat-Death-HLTH.gif)](https://github.com/alonejetblack)
 
@@ -39,7 +39,6 @@ To-Do List
 </details>
 
 ___
-[![Alonejetblack GitHub Stats](https://github-readme-stats.vercel.app/api?username=alonejetblack&show_icons=true&theme=graywhite)](https://github.com/alonejetblack)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alonejetblack&layout=compact&theme=graywhite)](https://github.com/alonejetblack)
 
 [![LINE](https://img.shields.io/badge/LINE-00ff44.svg)](https://line.me/ti/p/~_aloneketblack)
