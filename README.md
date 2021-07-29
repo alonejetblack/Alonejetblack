@@ -13,7 +13,7 @@ To-Do List
 
 <details>
 <summary>Ability</summary>
-  
+
 <!-- mbnd_art starts -->
 * Python
 * C#,JAVA
@@ -22,6 +22,7 @@ To-Do List
 <!-- mbnd_art ends -->
 
 </details>
+
 ___
 
 - ผมจบปวช.มาและมีประสบการณ์ทำงานจากการฝึกงานมาก่อน
@@ -30,6 +31,7 @@ ___
 
 [![LINE](https://img.shields.io/badge/LINE-00ff44.svg)](https://line.me/ti/p/~_aloneketblack)
 [![Instagram](https://img.shields.io/badge/Instagram-d66bff.svg)](https://instagram.com/alonejetblack)
+[![Facebook](https://img.shields.io/badge/Facebook-6666ff.svg)](https://www.facebook.com/ZeroZeone)
 [![Email](https://img.shields.io/badge/Email-ff0660.svg)](mailto:alonejetblaack@gmail.com)
 <!--
 **alonejetblack/Alonejetblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
