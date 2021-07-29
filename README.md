@@ -15,8 +15,8 @@ To-Do List
 <summary>Scattered Messy Pictures</summary>
   
 <!-- mbnd_art starts -->
-* [Take a look](https://www.instagram.com/ressync) my boring activity
-* I like [cats](https://www.instagram.com/ressync) and game consoles
+* [Take a look](https://www.instagram.com/alonejetblack) my boring activity
+* I like [cats](https://www.instagram.com/alonejetblack) and game consoles
 * I believe that [aliens](https://www.instagram.com/ressync) are hiding watching us
 * And this is [something](https://www.instagram.com/ressync) that doesn't matter
 <!-- mbnd_art ends -->
@@ -39,12 +39,12 @@ To-Do List
 </details>
 
 ___
-[![Ressync's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ressync&show_icons=true&theme=graywhite)](https://github.com/ressync)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ressync&layout=compact&theme=graywhite)](https://github.com/ressync)
+[![Alonejetblack GitHub Stats](https://github-readme-stats.vercel.app/api?username=alonejetblack&show_icons=true&theme=graywhite)](https://github.com/alonejetblack)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alonejetblack&layout=compact&theme=graywhite)](https://github.com/alonejetblack)
 
-[![LINE](https://img.shields.io/badge/LINE-00ff44.svg)](https://line.me/ti/p/~ressync)
-[![Instagram](https://img.shields.io/badge/Instagram-d66bff.svg)](https://instagram.com/ressync)
-[![Email](https://img.shields.io/badge/Email-ff0660.svg)](mailto:mpcprotection1@gmail.com)
+[![LINE](https://img.shields.io/badge/LINE-00ff44.svg)](https://line.me/ti/p/~_aloneketblack)
+[![Instagram](https://img.shields.io/badge/Instagram-d66bff.svg)](https://instagram.com/alonejetblack)
+[![Email](https://img.shields.io/badge/Email-ff0660.svg)](mailto:alonejetblaack@gmail.com)
 
 
 <!--
