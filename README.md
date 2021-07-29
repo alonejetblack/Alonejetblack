@@ -1,4 +1,4 @@
-### Hi there, Just call me [Alonejetblack!](https://github.com/alonejetblack) /ᐠ｡ꞈ｡ᐟ\
+### Hi there, Just call me [Alonejetblack!](https://github.com/alonejetblack) /ᐠ｡ꞈ｡ᐟ\ Thailand
 
 [![黒猫の死](https://i.ibb.co/X4S2w9j/Black-Cat-Death-HLTH.gif)](https://github.com/alonejetblack)
 
@@ -23,13 +23,14 @@ To-Do List
 
 </details>
 ___
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alonejetblack&layout=compact&theme=graywhite)](https://github.com/alonejetblack)
+
+- ผมจบปวช.มาและมีประสบการณ์ทำงานจากการฝึกงานมาก่อน
+- ตอนนี้ผมกำลังศึกษาสาขาวิทยาการคอมพิวเตอร์ ณ ม.กรุงเทพ
+- ผมสามารถเขียนและเรียนรู้ภาษาโปรแกรมนั้นๆควบคู่กันไปได้อีกด้วย
 
 [![LINE](https://img.shields.io/badge/LINE-00ff44.svg)](https://line.me/ti/p/~_aloneketblack)
 [![Instagram](https://img.shields.io/badge/Instagram-d66bff.svg)](https://instagram.com/alonejetblack)
 [![Email](https://img.shields.io/badge/Email-ff0660.svg)](mailto:alonejetblaack@gmail.com)
-
-
 <!--
 **alonejetblack/Alonejetblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
