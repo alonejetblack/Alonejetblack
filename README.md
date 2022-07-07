@@ -25,10 +25,6 @@ To-Do List
 
 ___
 
-- ผมจบปวช.มาและมีประสบการณ์ทำงานจากการฝึกงานมาก่อน
-- ตอนนี้ผมกำลังศึกษาสาขาวิทยาการคอมพิวเตอร์ ณ ม.กรุงเทพ
-- ผมสามารถเขียนและเรียนรู้ภาษาโปรแกรมนั้นๆควบคู่กันไปได้อีกด้วย
-
 [![LINE](https://img.shields.io/badge/LINE-00ff44.svg)](https://line.me/ti/p/~_aloneketblack)
 [![Instagram](https://img.shields.io/badge/Instagram-d66bff.svg)](https://instagram.com/alonejetblack)
 [![Facebook](https://img.shields.io/badge/Facebook-6666ff.svg)](https://www.facebook.com/ZeroZeone)
