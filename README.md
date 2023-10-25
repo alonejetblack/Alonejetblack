@@ -8,7 +8,6 @@ ___
 To-Do List
 - [x] find a job.
 - [x] work.
-- [ ] lazy.
 
 <details>
 <summary>Ability</summary>
