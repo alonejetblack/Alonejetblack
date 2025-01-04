@@ -28,4 +28,4 @@ ___
 [![Facebook](https://img.shields.io/badge/Facebook-6666ff.svg)](https://www.facebook.com/ZeroZeone)
 [![Email](https://img.shields.io/badge/Email-ff0660.svg)](mailto:alonejetblaack@gmail.com)
 
-> Copyright© 2024 [Alonejetblack](https://github.com/alonejetblack)
+> Copyright© 2025 [Alonejetblack](https://github.com/alonejetblack)
