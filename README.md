@@ -14,8 +14,8 @@ To-Do List
 
 <!-- mbnd_art starts -->
 * Python
-* C#,JAVA
-* HTML,CSS,PHP
+* JAVA
+* HTML,CSS,PHP, Angular
 * And this is [something](https://www.instagram.com/alonejetblack) that matter
 <!-- mbnd_art ends -->
 
